@@ -30,35 +30,3 @@ Organizzare i singoli membri in card/schede. Se non vi sentite particolarmente c
 Consigli del giorno:
 Ragioniamo come sempre a step.
 Prima la logica in italiano e poi traduciamo in codice.
-
-
-- [] Estrazione dei dati necessari
-    - [] Dichiarazione array per immagazzinare i gli oggetti
-    - [] Dichiarazione oggetti sotto forma di persone
-    - [] Stampa degli oggetti
-    - [] 
-    - [] 
-    - [] 
-    - [] 
-    - [] 
-    - [] 
-    - [] 
-
-- [] Inserimento sul DOM
-    - [] 
-    - [] 
-    - [] 
-    - [] 
-    - [] 
-    - [] 
-    - [] 
-    - [] 
-    - [] 
-    - [] 
-
-### INPUT
-
-
-### ESECUZIONE LOGICA
-
-### OUTPUT
